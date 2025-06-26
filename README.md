@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Seguimiento de Objetos por Color con Visualización de Trayectoria</title>
-</head>
 <body>
 
-  <h1 align="center">Seguimiento de Objetos por Color con OpenCV</h1>
+  <h1 align="center">Seguimiento de Objetos por Color con Visualización de Trayectoria</h1>
 
   <p>
     Este proyecto implementa un sistema de visión por computadora en tiempo real que permite detectar objetos en movimiento y seguir su trayectoria según el color predominante (rojo o azul). Al cambiar de color, el sistema reinicia la trayectoria, permitiendo un seguimiento diferenciado por color. Este sistema puede ser usado para fines educativos, de análisis visual o robótica móvil.
