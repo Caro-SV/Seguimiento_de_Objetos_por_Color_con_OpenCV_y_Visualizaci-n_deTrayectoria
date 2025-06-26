@@ -29,7 +29,7 @@
   <p>A continuación se muestra un ejemplo donde el sistema detecta un objeto rojo o azul y traza su trayectoria sobre la imagen:</p>
 
   <p align="center">
-    <img src="https://github.com/Caro-SV/Seguimiento-de-Objetos-por-Color/blob/main/seguimiento_trayectoria.gif" alt="Ejemplo de seguimiento por color" width="600">
+    <img src="https://github.com/user-attachments/assets/9e076780-d1cb-4a9c-85d8-cbc8ec51be15" alt="Ejemplo de seguimiento por color" width="600">
   </p>
 </body>
 </html>
